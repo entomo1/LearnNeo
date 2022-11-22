@@ -1,0 +1,193 @@
+Occ_ID,IT_Occupation,Detailed_Work_Activities
+IT.11.SD.00,Development Engineer,create technical specification documentation
+IT.11.SD.00,Development Engineer,contribute in all phase of the software development life cycle sdlc
+IT.11.SD.00,Development Engineer,developing software using agile methodology
+IT.11.SD.00,Development Engineer,perform unit testing and system integration testing
+IT.11.SD.00,Development Engineer,software development life cycle sdlc
+IT.11.SD.00,Development Engineer,provide technical support to existing customer
+IT.11.SD.00,Development Engineer,software design and development for application project
+IT.11.SD.00,Development Engineer,design develop test deploy maintain and improve the software
+IT.11.SD.00,Development Engineer,support and maintenance of existing application
+IT.11.SD.00,Development Engineer,ensure the best possible performance quality and responsiveness of the application
+IT.11.SD.00,Development Engineer,creating security and data protection setting
+IT.11.SD.00,Development Engineer,write technical design documentation
+IT.11.SD.00,Development Engineer,setup and maintain ci cd automated testing development and delivery environment
+IT.11.SD.00,Development Engineer,contributing in all phase of development lifecycle
+IT.11.SD.00,Development Engineer,analyse process program specification translate specification to program code conforming to program guideline and programming best practice
+IT.11.SD.00,Development Engineer,writing functional or technical specification
+IT.11.SD.00,Development Engineer,prepare software documentation or and user manual
+IT.11.SD.00,Development Engineer,perform unit and integration testing
+IT.11.SD.00,Development Engineer,participate in design and code review
+IT.07.ITIA.03,Lead Engineer Systems,create and maintain technical documentation
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,troubleshoot system and network problem diagnosing and solving hardware and software fault
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,liaise with external vendor on technical issue
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,maintain an inventory of it system hardware and software
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,troubleshoot technical issue and problem
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,create and maintain technical documentation and standard operating procedure
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,provide technical support to the end user on hardware and software related issue
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,provide helpdesk support to all user
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,troubleshoot network issue and repair faulty hardware and software
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,provide incident management and problem management
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,liaise with 3rd party vendor to facilitate preventive maintenance and troubleshooting of it infrastructure or end user equipment
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,provide first level support to troubleshoot and solve technical problem
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,install and configure computer hardware software system network printer and scanner
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,provide post sale and presale application and sale support by analyzing and recommending solution to meet customer s need
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,conduct user acceptance testing uat
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,install and setup computer system and application
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,provide technical and product support to customer
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,provide it software technical support in daily it operation
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,provide technical support to end user on desktop laptop printer handhelds and smartphones etc to customer and project
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,respond in timely manner to service issue request
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,a provide application maintenance and programming service for the existing application
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,facilitate procurement of it equipment
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,to provide end user support on it hardware and software issue
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,ensure compliance to security policy and standard
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,e create technical documentation for user support
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,troubleshooting and analysis of customer issue
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,provide routine preventive maintenance
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,bilingual in english and mandarin in order to liaise with mandarin speaking associate
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,monitor and maintain computer system network
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,perform operational task to resolve all incident request in a timely manner and within agreed sla
+IT.03.CS.00,Customer Support Engineer Or Customer Success Engineer,committed to meet the service level agreement sla timeline
+IT.07.ITIA.02,System Engineer,create and maintain technical documentation
+IT.07.ITIA.02,System Engineer,troubleshoot for network related issue
+IT.07.ITIA.02,System Engineer,maintain inventory of hardware and software
+IT.07.ITIA.02,System Engineer,installing configurating testing and maintaining operating system application software and system management tool
+IT.07.ITIA.02,System Engineer,troubleshooting hardware and software issue
+IT.07.ITIA.02,System Engineer,monitoring and managing all installed system and infrastructure
+IT.07.ITIA.02,System Engineer,install and configure software and hardware
+IT.07.ITIA.02,System Engineer,provide technical support for customer
+IT.07.ITIA.02,System Engineer,design and implement new network solution and or improving the efficiency of current network
+IT.07.ITIA.02,System Engineer,liaising with vendor needed to achieve incident and problem resolution
+IT.07.ITIA.02,System Engineer,perform problem determination and resolution and report on outcome of troubleshooting
+IT.07.ITIA.02,System Engineer,perform installation configuration and maintenance of network equipment and network operation system
+IT.07.ITIA.02,System Engineer,provide end user support for hardware and software
+IT.07.ITIA.02,System Engineer,perform preventive and corrective maintenance in accordance to the work instruction and
+IT.07.ITIA.02,System Engineer,provide pre sale and post sale support
+IT.08.NA.00,Network Admin Or System Admin,liaise with vendor on it related project issue
+IT.08.NA.00,Network Admin Or System Admin,troubleshooting hardware and software issue
+IT.08.NA.00,Network Admin Or System Admin,installing and configuring software hardware and network
+IT.08.NA.00,Network Admin Or System Admin,procurement of it equipment and service
+IT.08.NA.00,Network Admin Or System Admin,track and manage hardware and software inventory
+IT.07.ITIA.00,It Administrator,manage it policy and procedure to ensure compliance
+IT.05.ERPM.01,Erp Consultant,project implementation and support on sap module
+IT.03.CS.01,Lead Customersupport Engineer Or Lead Customer Success Engineer,create and maintain technical documentation
+IT.09.PPM.04,Senior Project Manager,ensure that all project are delivered on time within scope and budget
+IT.09.PPM.04,Senior Project Manager,identify potential project risk and it implication to the organisation and to recommend mitigating measure so a to manage the risk
+IT.09.PPM.04,Senior Project Manager,monitor project progress and handle any issue that arise
+IT.09.PPM.04,Senior Project Manager,overall responsible of the project cost control within agreed budget
+IT.09.PPM.04,Senior Project Manager,manage change to the project scope project schedule and project cost using appropriate verification technique
+IT.09.PPM.04,Senior Project Manager,develop project scope and objective involving all relevant stakeholder and ensure technical feasibility
+IT.09.PPM.04,Senior Project Manager,manage the relationship with the client and all stakeholder
+IT.09.PPM.04,Senior Project Manager,develop detailed project plan to track progress
+IT.09.PPM.04,Senior Project Manager,monitoring expenditure in accordance with the budget
+IT.09.PPM.04,Senior Project Manager,managing project risk including developing contingency plan
+IT.09.PPM.04,Senior Project Manager,establish project plan resource budget and timeframes and assign task
+IT.09.PPM.04,Senior Project Manager,assist in ensuring the ongoing compliance against the organizational it security policy standard and
+IT.09.PPM.04,Senior Project Manager,effectively manage project to ensure completion within allocated period of time
+IT.09.PPM.04,Senior Project Manager,manage multiple project simultaneously
+IT.09.PPM.04,Senior Project Manager,measure project performance using appropriate system tool and technique
+IT.09.PPM.04,Senior Project Manager,track risk and issue prioritise and solve project problem and timely escalation to the stakeholder for resolution
+IT.09.PPM.04,Senior Project Manager,establish a risk management plan for a structured approach to identify and review potential risk and mitigation action
+IT.09.PPM.04,Senior Project Manager,monitor and control project site activity to ensure project is completed on schedule and within budget
+IT.09.PPM.04,Senior Project Manager,develop and manage a detailed project schedule and work plan
+IT.09.PPM.04,Senior Project Manager,managed project resource budget and financesscope
+IT.09.PPM.04,Senior Project Manager,ensure that project and program are proceeding according to scope schedule budget and quality standard
+IT.09.PPM.04,Senior Project Manager,engage and manage stakeholder and communicating them effectively and efficiently
+IT.09.PPM.04,Senior Project Manager,manage and build existing client relationship
+IT.09.PPM.04,Senior Project Manager,vp data engineer group consumer banking and big data analytics technology technology operation wd32991
+IT.09.PPM.04,Senior Project Manager,executes project using project management strategy process technique and best practice
+IT.09.PPM.04,Senior Project Manager,ensuring that all project milestone and timeline are met
+IT.09.PPM.04,Senior Project Manager,report of project status to key stakeholder on a regular basis
+IT.09.PPM.04,Senior Project Manager,responsible for the execution and technical delivery of the project that meet scope timeline and within budget
+IT.09.PPM.04,Senior Project Manager,managing relationship with stakeholder
+IT.09.PPM.04,Senior Project Manager,ensure that project are executed based on the project plan to meet identified business need and outcome within agreed parameter of cost duration and quality
+IT.09.PPM.04,Senior Project Manager,responsible for project management including attending meeting coordination and supervision work
+IT.02.AIBI.03,Data Science Engineer,analyze large amount of information to discover trend and pattern
+IT.02.AIBI.03,Data Science Engineer,exploratory data analysis dashboard
+IT.06.IS.01,Compliance And Risk Analyst Or Cybersecuirty Manager,create and manage information security and risk management awareness training program
+IT.06.IS.01,Compliance And Risk Analyst Or Cybersecuirty Manager,develop maintain and implement security policy standard and procedure
+IT.06.IS.01,Compliance And Risk Analyst Or Cybersecuirty Manager,handling security incident in line with the incident response process
+IT.06.IS.01,Compliance And Risk Analyst Or Cybersecuirty Manager,developing it security policy procedure guideline and baseline
+IT.06.IS.01,Compliance And Risk Analyst Or Cybersecuirty Manager,establish and maintain the security incident response and escalation procedure
+IT.06.IS.01,Compliance And Risk Analyst Or Cybersecuirty Manager,support the development of security policy for cyber security risk assessment and compliance audit
+IT.06.IS.01,Compliance And Risk Analyst Or Cybersecuirty Manager,in the area of security compliance audit and governance
+IT.09.PPM.03,Project Manager,develop maintain a detailed project plan to monitor and track progress
+IT.02.AIBI.00,Bi Developer Or Dw Engineer,be part of system integration testing sit user acceptance testing uat
+IT.04.DMA.01,Lead Dba,database performance monitoring and tuning
+IT.13.TML.03,Chief Architect,design create and maintain optimal data pipeline
+IT.13.TML.03,Chief Architect,providing technical support to both business user and technical user of the system
+IT.13.TML.03,Chief Architect,provide technical leadership in complex project s independently
+IT.05.ERPM.00,Lead Erp Consultant,provide project implementation and support on sap module
+IT.05.ERPM.00,Lead Erp Consultant,completed at least 2 full sap end to end implementation
+IT.05.ERPM.00,Lead Erp Consultant,configure sap for the proposed solution
+IT.13.TML.02,Principal Architect,creating and maintaining optimal data pipeline architecture
+IT.12.TA.02,Scrum Master,
+IT.10.PDCS.02,Cloud Engineer,support cloud infrastructure operation resolve cloud infrastructure incident
+IT.12.TA.00,Lead Qa Engineer,design and implement test automation framework
+IT.12.TA.00,Lead Qa Engineer,design develop and execute automation script using open source tool
+IT.01.AD.00,Mobile Developer,design develop maintain io mobile application
+IT.01.AD.00,Mobile Developer,develop hybrid mobile application both io android using ionic and react native
+IT.01.AD.00,Mobile Developer,design and build android mobile application
+IT.01.AD.00,Mobile Developer,participate in full mobile application development lifecycle
+IT.02.AIBI.01,Bi Lead Or Dw Lead,coordinate and conduct user acceptance testing uat
+IT.02.AIBI.01,Bi Lead Or Dw Lead,refine and clarify business need define solution scope and develop business case
+IT.02.AIBI.01,Bi Lead Or Dw Lead,prepare user manual and deliver training to end user
+IT.02.AIBI.01,Bi Lead Or Dw Lead,support user acceptance test planning automated and manual testing
+IT.13.TML.04,Chief Technology Officer,implement the enterprise architecture roadmap
+IT.05.ERPM.05,Sme Crm,
+IT.05.ERPM.04,Lead Consultant Crm,solution engineer solution architect
+IT.14.UE.00,Design Engineer Or Ux Engineer,creates and maintains technical documentation for reference and reporting
+IT.14.UE.00,Design Engineer Or Ux Engineer,creating user flow wireframes prototype and mockups
+IT.13.TML.00,Program Manager,assist in ensuring the ongoing compliance against the organizational it security policy standard and
+IT.13.TML.00,Program Manager,manage disaster recovery and business continuity plan
+IT.13.TML.00,Program Manager,facilitates scrum ceremony standup spring planning sprint review showcase retrospective with agile squad
+IT.13.TML.00,Program Manager,support product owner in backlog refinement e g by proposing technique for effective backlog management and maximise it value
+IT.11.SD.01,Development Lead,involve in software development life cycle
+IT.11.SD.01,Development Lead,create technical documentation for reference
+IT.11.SD.01,Development Lead,assisting the integration testing system testing user acceptance test implementation activity
+IT.06.IS.00,Cybersercurity Analyst,perform investigation of security incident
+IT.06.IS.00,Cybersercurity Analyst,conduct relevant training session on security awareness protocol and procedure and providing helpful reference
+IT.02.AIBI.04,Machine Learning Lead,vp avp machine learning engineer ai industrialization group consumer banking and big data analytics technology technology operation wd19016
+IT.02.AIBI.04,Machine Learning Lead,help to implement and continually enhance the data governance framework manage the data governance process
+IT.10.PDCS.01,Head Of Devops And Sre,
+IT.12.TA.01,Principal Qa Engineer,develop test plan specification case and script
+IT.12.TA.01,Principal Qa Engineer,building and maintenance of test automation framework
+IT.10.PDCS.03,Lead Engineer Cloud,container orchestration e g kubernetes cloud foundry eks
+IT.10.PDCS.03,Lead Engineer Cloud,cloud amazon aws microsoft azure google cloud platform paas iaa saas product and solution
+IT.11.SD.03,Qa Engineer,optimize the automation case development process and the automation testing process
+IT.11.SD.03,Qa Engineer,producing test strategy test plan and test case
+IT.11.SD.03,Qa Engineer,design and develop automated test suite to increase coverage of test automation
+IT.11.SD.03,Qa Engineer,execute test case manual or automated and analyse result
+IT.11.SD.03,Qa Engineer,perform manual and automated testing
+IT.11.SD.03,Qa Engineer,design and develop automation script when needed
+IT.11.SD.03,Qa Engineer,continuously optimise the development and testing process to enhance test quality and efficiency
+IT.07.ITIA.04,Sme Systems,
+IT.09.PPM.05,Director Of Engineering Or Vp Of Engineering,perform risk management to minimize risk to project
+IT.09.PPM.05,Director Of Engineering Or Vp Of Engineering,support the successful delivery of the assigned project in time scope quality and budget
+IT.09.PPM.05,Director Of Engineering Or Vp Of Engineering,stakeholder service partner management
+IT.09.PPM.01,Senior Product Manager Or Senior Marketing Manager,develop the product strategy and roadmap
+IT.10.PDCS.00,Devops Engineer Or Site Reliability Engineer,develop build and maintain continuous integration and deployment ci cd pipeline and automated testing to support high quality software build in a continuous build and deploy environment jenkins pipeline library
+IT.14.UE.01,User Experience Lead,creating user flow wireframes prototype and mock ups
+IT.05.ERPM.03,App Engineer Crm,create technical specification and documentation
+IT.07.ITIA.01,Head Of It,troubleshoot hardware and software issue related to it matter
+IT.07.ITIA.01,Head Of It,server window administration and support
+IT.07.ITIA.01,Head Of It,manage and maintain all disaster recovery plan oversee appropriate testing and provide permit to operate for new application
+IT.10.PDCS.00,Devops Lead Or Sre Lead,strive for continuous improvement and build continuous integration continuous development and constant deployment pipeline ci cd pipeline
+IT.11.SD.02,Architect Fullstack,create design technical and project documentation
+IT.09.PPM.00,Product Manager Or Marketing Manager,foster relationship with partner and vendor
+IT.05.ERPM.02,Erp Architect,configure sap for the proposed solution
+IT.06.IS.02,Cybersecurity Architect Or Head Cybersecurity,
+IT.02.AIBI.05,Ai Architect,work with business stakeholder to develop and analyze big data need
+IT.02.AIBI.05,Ai Architect,with investigating and handling data quality issue
+IT.02.AIBI.05,Ai Architect,manual sm sg procurement operational manual om
+IT.13.TML.01,Director Of Programs,
+IT.01.AD.01,Senior Mobile Developer,designing and developing advanced application for the android platform
+IT.03.CS.02,Architect Customer Support Engineer Or Architect Customer Success Engineer,
+IT.01.AD.02,Mobility Architect,responsible for the design and development of io mobile app
+IT.04.DMA.00,Dba Or Database Developer,database capacity planning performance monitoring and tuning
+IT.02.AIBI.02,Bi Architect Or Dw Architect,o facilitate provide train the trainer on application enhancement
+IT.10.PDCS.04,Sme Cloud Or  Cloud Architect,
+IT.04.DMA.02,Sme Dba,
+IT.14.UE.02,User Experience Architect,
+IT.09.PPM.02,Director Of Products,
